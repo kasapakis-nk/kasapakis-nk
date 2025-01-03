@@ -1,7 +1,6 @@
 <h1>Kasapakis Nikolaos</h1>
 
 ## **`Software Engineer`**
-
 <p>I am a Full-Stack Software Develover...tbc</p>
 
 <hr style="border: 0; height: 6px; background-color: grey; width: 100%;" />
