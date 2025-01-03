@@ -1,13 +1,16 @@
 <h1>Kasapakis Nikolaos</h1>
 
-<h2 style="
-    background-color: #f0f0f0; /* Light Grey */
-    border-radius: 5px; 
-    padding: 10px; 
-    width: 20%; 
-    display: inline-block;
-    margin-right: 10px; 
-">Software Engineer</h2>
+<code>
+  <style>
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-spaces;
+    background-color: var(--bgColor-neutral-muted, var(--color-neutral-muted));
+    border-radius: 6px;
+  </style>
+    software developer
+</code>
 
 
 <p>
