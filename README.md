@@ -17,7 +17,7 @@
 
 <h3>💻 Languages and Tools</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 50px;">
+<h3 style="display: flex; justify-content: space-between; align-items: center; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 50px; height: 100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: 100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" style="width: 50px; height: 100%;" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width: 50px; height: 100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 50px; height: 100%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 50px; height: 100%;" />
-</div>
+</h3>
 
 
 
