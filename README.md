@@ -8,17 +8,14 @@
     background-color: var(--bgColor-neutral-muted, var(--color-neutral-muted));
     border-radius: 6px;
     font-weight: bold;
-    font-size: 10px;
 ">Software Engineer</code>
 
 
-<p>
-  my bio
-</p>
+<p>I am a Full-Stack Software Develover...tbc</p>
 
 <hr style="border: 0; height: 6px; background-color: grey; width: 100%;" />
 
-<h2>💻 Languages and Tools</h2>
+<h3>💻 Languages and Tools</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: center; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 50px; height: 100%;" />
