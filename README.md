@@ -1,10 +1,10 @@
 <h1>Kasapakis Nikolaos</h1>
 
-<span style="transform: scale(1.5);">**`Software Engineer`**<span>
+**`Software Engineer`**
 
 <p>I am a Full-Stack Software Develover...tbc</p>
 
-<hr style="border: 0; height: 6px; background-color: grey; width: 100%;" />
+---
 
 ## <h3>💻 Languages and Tools</h3>
 
@@ -22,10 +22,9 @@
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br>
+<br />
 
----
-
+#
 <!--
 <details>
  # <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
