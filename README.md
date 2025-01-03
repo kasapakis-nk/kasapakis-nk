@@ -1,10 +1,8 @@
 <h1>Kasapakis Nikolaos</h1>
 
-## **`Software Engineer`**
+## <code style=" padding: .2em .4em; margin: 0; font-size: 85%; white-space: break-spaces; background-color: var(--bgColor-neutral-muted, var(--color-neutral-muted)); border-radius: 6px; font-weight: bold;">Software Engineer</code>
 
-<!-- ## <code style=" padding: .2em .4em; margin: 0; font-size: 85%; white-space: break-spaces; background-color: var(--bgColor-neutral-muted, var(--color-neutral-muted)); border-radius: 6px; font-weight: bold;">Software Engineer</code> -->
-
-I am a Full-Stack Software Develover...tbc
+<p>I am a Full-Stack Software Develover...tbc</p>
 
 <hr style="border: 0; height: 6px; background-color: grey; width: 100%;" />
 
