@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 50px; height: 100%;" />
 </h3>
 
+<hr style="border: 0; height: 2px; background-color: grey; width: 100%;" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasapakis-nk&show_icons=true&theme=shadow_red)
+
 
 
 
