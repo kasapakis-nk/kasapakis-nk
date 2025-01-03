@@ -1,6 +1,6 @@
 <h1>Kasapakis Nikolaos</h1>
 
-<span style="font-size = 200px;">**`Software Engineer`**<span>
+<span style="transform: scale(1.5);">**`Software Engineer`**<span>
 
 <p>I am a Full-Stack Software Develover...tbc</p>
 
