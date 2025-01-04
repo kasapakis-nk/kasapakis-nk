@@ -5,10 +5,10 @@
 <p>I am an indie full-stack software develover dedicated to building and contributing to projects that solve everyday needs. My process encompasses the entire SDLC, from planning and design all the way to implementation and ongoing maintenance. I prioritize delivering an exceptional user experience (UX), focusing on developing sophisticated, yet elegant functionalities. While I value design and aesthetics, my passion lies in creating purposeful, efficient, and seamlessly integrated solutions that fulfill their objectives with clarity and precision.</p>
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/kasapakis-nk/">
+      <a href="https://www.linkedin.com/in/kasapakis-nk/" target="_blank">
          <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=kasnklinkedin&logoSize=auto&labelColor=%23026DBD">
       </a> 
-      <a href="https://www.linkedin.com/in/kasapakis-nk/">
+      <a href="https://www.linkedin.com/in/kasapakis-nk/" target="_blank">
          <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%23025A9E">
       </a> 
 
