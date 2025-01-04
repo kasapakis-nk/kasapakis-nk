@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-<p>I am a Full-Stack Software Develover...tbc</p>
+<p>I am an indie full-stack software develover dedicated to building and contributing to projects that solve everyday needs. My process encompasses the entire SDLC, from planning and design all the way to implementation and ongoing maintenance. I prioritize delivering an exceptional user experience (UX), focusing on developing sophisticated, yet elegant functionalities. While I value design and aesthetics, my passion lies in creating purposeful, efficient, and seamlessly integrated solutions that fulfill their objectives with clarity and precision.</p>
 
 ---
 
