@@ -9,7 +9,7 @@
          <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%23025A9E">
       </a> 
       <a href="https://www.linkedin.com/in/kasapakis-nk/">
-         <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=kasnklinkedin&logoSize=auto&labelColor=%231575A8">
+         <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%23005BBF?style=for-the-badge&logo=kasnklinkedin&logoSize=auto&labelColor=%231575A8">
       </a> 
 
 
