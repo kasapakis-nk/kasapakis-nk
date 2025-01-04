@@ -6,9 +6,9 @@
 
    <p align="left">
       <a href="https://www.linkedin.com/in/kasapakis-nk/">
-         <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="![Static Badge](https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%231575A8)
-"/></a> 
-      ![Static Badge](https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%231575A8)
+         <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%231575A8">
+      </a> 
+
 
    <!--   <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
