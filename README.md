@@ -4,6 +4,18 @@
 
 <p>I am an indie full-stack software develover dedicated to building and contributing to projects that solve everyday needs. My process encompasses the entire SDLC, from planning and design all the way to implementation and ongoing maintenance. I prioritize delivering an exceptional user experience (UX), focusing on developing sophisticated, yet elegant functionalities. While I value design and aesthetics, my passion lies in creating purposeful, efficient, and seamlessly integrated solutions that fulfill their objectives with clarity and precision.</p>
 
+   <p align="left">
+      <a href="https://www.linkedin.com/in/kasapakis-nk/">
+         <img alt="Kasapakis Nikolaos LinkedIn" title="Kasapakis Nikolaos LinkedIn" src="[https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://img.shields.io/badge/-LinkedIn-%232482C5?style=for-the-badge&logo=Linktree&logoSize=auto&labelColor=%231575A8
+)"/></a> 
+   <!--   <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+   </p>
+
 ---
 
 <h3>💻 Languages and Tools</h3>
