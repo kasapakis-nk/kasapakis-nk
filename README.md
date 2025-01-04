@@ -34,10 +34,13 @@
 #
 
 <details>
- # <summary><h3>👨‍💻 Nick's Coding Journey</h3></summary>
+   <summary><h3>👨‍💻 Nick's Coding Journey</h3></summary>
    I started my coding journey towards the end of my Bachelor's degree in Physics. While I was fascinated by the complex mathematical concepts and the thought-provoking nature of the field, I became frustrated by its impracticality and lack of human-scale relevance—either dealing with phenomena on the scale of megaparsecs (Mpc) or the tiny realm of angstroms (Å). This led me to explore the world of software development, with no prior experience or guidance except for... the internet... so, essentially, everyone.
+   
    Initially, I was hesitant to pursue programming. I felt that I was too far behind others, especially those with computer science degrees. I looked for niche areas where I could leverage my strong background in mathematics and high-level problem-solving. This approach led me to choose my BSc thesis, which focused on Big Data Analysis using Linux systems, bash scripts for automation, and tools like FSL, while also exploring Virtual Machines. I processed the data with Python and MATLAB, applying machine learning techniques for classification, and documented my findings using LaTeX. This challenging process built my confidence, particularly after I successfully navigated the complexities of Linux systems on my own.
+   
    After graduation, I began my job search with the goal of landing a role as a Data Analyst/Scientist or Software Development Consultant. However, after months of trial, error, and many rejections, I pivoted towards a sub-field of software development with a lower barrier to entry: QA Testing. I delved into software testing tools, attended seminars, and completed relevant courses, all while continuing my search for a job as an automation tester. Although I faced further setbacks, I grew significantly in my confidence—not only in the tools I had explored but also in my ability to quickly adapt to new technologies. By then, I was no longer intimidated by the competition; I was ready to compete. I decided to dive into full-stack development, focusing on mastering Java.
+   
    While building my first real-world project, I started by developing a website. At first, I wanted to rush through the front-end development so I could focus on Java APIs and SQL queries. But then I encountered JavaScript—and I completely fell in love with it. The language captured my attention, and I became passionate (and sometimes overly absorbed) with coding in JavaScript. I’m currently exploring JavaScript frameworks and continuing to expand my projects, all while actively looking for a job as a full-stack developer or front-end developer, with a focus on the functionality aspect of applications rather than just the web development part.
 </details>
 
