@@ -52,7 +52,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/kasapakis-nk/Build_Your_Workout_Split_Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kasapakis-nk&repo=Build_Your_Workout_Split_Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Build_Your_Workout_Split_Website"></a>
+    <a href="https://github.com/kasapakis-nk/Workout_Split_Organizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kasapakis-nk&repo=Workout_Split_Organizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Workout_Split_Organizer"></a>
          <a href="https://github.com/kasapakis-nk/Fytrolakis_Apartments_Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kasapakis-nk&repo=Fytrolakis_Apartments_Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fytrolakis_Apartments_Website"></a>
          <a href="https://github.com/kasapakis-nk/BSc_Thesis_MVPA_Decoding_Classification"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kasapakis-nk&repo=BSc_Thesis_MVPA_Decoding_Classification&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="BSc_Thesis"></a>
   </p>
